@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "551051883736",
+    "project_id": "club-connect-ss",
+    "storage_bucket": "club-connect-ss.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551051883736:android:f6e9e8446fdc30cb4893ad",
+        "android_client_info": {
+          "package_name": "com.example.club_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMr4asnMgtJG19cozaJ6X3SctF_zbBmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551051883736:android:2b58783f9977ec454893ad",
+        "android_client_info": {
+          "package_name": "com.example.club_connect_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMr4asnMgtJG19cozaJ6X3SctF_zbBmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551051883736:android:fe8810b50fbf7e7b4893ad",
+        "android_client_info": {
+          "package_name": "com.singh.clubconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMr4asnMgtJG19cozaJ6X3SctF_zbBmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
